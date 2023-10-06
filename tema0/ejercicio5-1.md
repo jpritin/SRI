@@ -13,3 +13,7 @@ python -m http.server 8000
 Por último accedemos desde nuestro navegador web
 
 ![Screenshot1](/tema0/Screenshot_3.png)
+
+
+
+    
