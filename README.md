@@ -5,5 +5,5 @@
 
 Nombre | Descripción
 -------|---------
-[Ejercicio1](/tema0/ejercicio5-1.md) | Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección
+[Ejercicio1](/tema0/ejemplo1.md) | Ponemos en marcha un servidor web con Python
 
