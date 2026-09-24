@@ -18,3 +18,7 @@ Finalmente, comprobamos el resultado
 
 <img width="1184" height="900" alt="imagen" src="https://github.com/user-attachments/assets/c5a1b4bd-1a6e-42ac-999b-67a5ea3469ad" />
 
+Podemos comprobar la salida que genera el servidor web en la línea de comandos.
+
+![Screenshot1.jpg](Screenshot1.jpg)
+
